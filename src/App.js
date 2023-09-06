@@ -213,7 +213,7 @@ function App() {
                           >
                             Edit
                           </button>
-                          ;
+                          
                           <button
                             id="deletData"
                             className="btn btn-danger btn-sm"

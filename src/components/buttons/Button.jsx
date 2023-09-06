@@ -1,5 +1,5 @@
 const Button = ({ label, color }) => {
-  return <button className={`btn btn-${color} btn-sm`}>{label}</button>;
+  return <button className={`btn btn-${color} btn-sm`}>{label}</button>
 };
 // );
 
